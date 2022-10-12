@@ -1,0 +1,4 @@
+{
+    "name": "Build and Trigger",
+    "description": "Builds the current project and triggers the next in the chain"
+}
